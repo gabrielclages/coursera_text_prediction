@@ -129,8 +129,10 @@ We will use the correlation plot to understand the correlation of the features
 
 ```{r corrplot}
 corrplot.mixed(cor(numeric_training), lower="circle", upper="color", tl.pos="lt", diag="n", order="hclust", hclust.method="complete")
+```
+![](https://github.com/gabrielclages/Coursera_Project_Machine_Learning/blob/master/images/corrplot.png)
 
-
+```{r final}
 #Now we can define the final dataset
 final_training_set<-numeric_training
 final_training_set$classe <- training_outcomes
