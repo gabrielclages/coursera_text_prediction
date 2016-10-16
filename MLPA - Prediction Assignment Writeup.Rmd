@@ -228,6 +228,7 @@ rpart.plot(treeModel, type=4, fallen=T, branch=.4, digits=2, round=0, leaf.round
            clip.right.labs=F, under.cex=1, branch.lwd=2, extra=100,
            under=F, lt=" < ", ge=" >= ")
 ```
+![](https://github.com/gabrielclages/Coursera_Project_Machine_Learning/blob/master/images/treemodel.png)
 
 ## 5 - Model application
 
@@ -261,3 +262,10 @@ In the following table we can see the prediction result:
 18-B 
 19-B 
 20-B 
+
+---
+1: "A"
+author: "Gabriel Lages"
+date: "10-16-2016"
+output: html_document
+---
