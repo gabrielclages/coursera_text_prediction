@@ -167,20 +167,22 @@ The statistics of the estimated model indicates that we need 39 predictors to es
 ```{r model_statistics}
 Random_Forest_model
 ```
-> Random Forest 
- 14718 samples
-    39 predictor
-     5 classes: 'A', 'B', 'C', 'D', 'E' 
- No pre-processing
- Resampling: Cross-Validated (5 fold) 
- Summary of sample sizes: 11775, 11774, 11774, 11774, 11775 
- Resampling results across tuning parameters:
-   mtry  Accuracy   Kappa    
-    2    0.9887212  0.9857323
-   20    0.9875662  0.9842720
-   39    0.9822663  0.9775663 
-Accuracy was used to select the optimal model using  the largest value.
-The final value used for the model was mtry = 2.
+```{r random}
+## Random Forest 
+## 14718 samples
+##    39 predictor
+##     5 classes: 'A', 'B', 'C', 'D', 'E' 
+## No pre-processing
+## Resampling: Cross-Validated (5 fold) 
+## Summary of sample sizes: 11775, 11774, 11774, 11774, 11775 
+## Resampling results across tuning parameters:
+##   mtry  Accuracy   Kappa    
+##    2    0.9887212  0.9857323
+##   20    0.9875662  0.9842720
+##   39    0.9822663  0.9775663
+## Accuracy was used to select the optimal model using  the largest value.
+## The final value used for the model was mtry = 2.
+```
 
 ## 4 - Model test and evaluation
 
