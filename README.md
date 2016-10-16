@@ -9,8 +9,8 @@ In this repo you can find reproducible R-scripts used in the analysis.
 
 You can see the full project in the following links: 
 
-Analysis report in Rmarkdown: https://github.com/gabrielclages/Coursera_Project_Machine_Learning/blob/master/MLPA%20-%20Prediction%20Assignment%20Writeup.Rmd
+**Analysis report in Rmarkdown:** https://github.com/gabrielclages/Coursera_Project_Machine_Learning/blob/master/MLPA%20-%20Prediction%20Assignment%20Writeup.Rmd
 
-Raw R-script: <https://github.com/gabrielclages/Coursera_Project_Machine_Learning/blob/master/MLPA%20-%20Prediction%20Assignment%20Writeup.R>
+**Raw R-script:** <https://github.com/gabrielclages/Coursera_Project_Machine_Learning/blob/master/MLPA%20-%20Prediction%20Assignment%20Writeup.R>
 
-Raw html code: <https://github.com/gabrielclages/Coursera_Project_Machine_Learning/blob/master/MLPA_-_Prediction_Assignment_Writeup.html>
+**Raw html code:** <https://github.com/gabrielclages/Coursera_Project_Machine_Learning/blob/master/MLPA_-_Prediction_Assignment_Writeup.html>
